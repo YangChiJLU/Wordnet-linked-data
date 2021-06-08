@@ -21,7 +21,7 @@ If the corresponding target synset is not existed in PWN, we annotated "GAP".
 
 Example:  
 
-1: n#2472293;n#5929008;n#3335600;n#7846;n#10200781;n#6326797;n#13862780;n#10622053;n#9587565;n#4620216 (Tongyici)  
+1:n#2472293;n#5929008;n#3335600;n#7846;n#10200781;n#6326797;n#13862780;n#10622053;n#9587565;n#4620216 (Tongyici)  
 9: GAP  (Tongyici)  
 1: n#13481224;n#13481408;n#13504739 (Openthesaurus)  
 19: GAP  (Openthesaurus)  
